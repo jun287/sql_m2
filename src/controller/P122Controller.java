@@ -1,4 +1,5 @@
 // 2018. 08. 06 공세준
+// '/P122Controller' 경로를 요청 받아서 처리하는 Controller 입니다.
 
 package controller;
 
