@@ -19,6 +19,8 @@
 			<li class="list-group-item"><a href="${pageContext.request.contextPath}/P122Controller" class="list-group-item">p122. 쿼리 사용 페이지 요청</a></li>
 			<li class="list-group-item"><a href="${pageContext.request.contextPath}/P124Controller" class="list-group-item">p124. 쿼리 사용 페이지 요청</a></li>
 			<li class="list-group-item"><a href="${pageContext.request.contextPath}/P125Controller" class="list-group-item">p125. 쿼리 사용 페이지 요청</a></li>
+			<li class="list-group-item"><a href="${pageContext.request.contextPath}/P143Controller" class="list-group-item">p143. 쿼리 사용 페이지 요청</a></li>
+			<li class="list-group-item"><a href="${pageContext.request.contextPath}/P154Controller" class="list-group-item">p154. 쿼리 사용 페이지 요청</a></li>
 		</ol>
 	</body>
 </html>
